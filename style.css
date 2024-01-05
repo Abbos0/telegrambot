@@ -50,7 +50,7 @@ body{
     cursor: pointer;
 }
 .input-box input::placeholder{
-    color: #fff;
+    color: #ffffff84;
 }
 .input-box i{
     position: absolute;
