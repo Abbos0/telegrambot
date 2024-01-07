@@ -14,12 +14,15 @@ const Form = document.querySelector("#form")
 //     e.preventDefault()
 //     // console.log(Username.value, Password.value);
 
-//     // if(Username.value === "" || Password.value === ""){
-//     //   alert("Ma'lumotlarni to'liq kiriting!!!")  
-//     // }
+//     if(Username.value === "" || Password.value === ""){
+//       alert("Ma'lumotlarni to'liq kiriting!!!")  
+//     }
         
 // }
-
+if(Username.value === "" || Password.value === ""){
+    alert("Ma'lumotlarni to'liq kiriting!!!")  
+  }
+     
 // Form.addEventListener("submit" , GetValue )
 
 // %0A   => br degani
